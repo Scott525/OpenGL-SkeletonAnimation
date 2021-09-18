@@ -29,7 +29,7 @@ const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
 
 // camera
-Camera camera(glm::vec3(0.0f, 1.0f, 3.0f));
+Camera camera(glm::vec3(0.0f, 1.0f, -3.0f));
 float lastX = SCR_WIDTH / 2.0f;
 float lastY = SCR_HEIGHT / 2.0f;
 bool firstMouse = true;
@@ -149,7 +149,7 @@ int main()
 
     // load models
 	stbi_set_flip_vertically_on_load(true);
-	Model stageModel("../../resources/stage/msds.obj");
+	Model stageModel("../../resources/stage/msds/msds.fbx");
 	Model characterModel("../../resources/models/jean/jean.fbx");
 	Animation danceAnimation("../../resources/models/jean/jean.fbx", &characterModel);
 	Animator animator(&danceAnimation);
@@ -198,7 +198,7 @@ int main()
 
 		// render the loaded model
 		glm::mat4 model = glm::mat4(1.0f);
-		model = glm::rotate(model, glm::radians(180.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::rotate(model, glm::radians(180.0f), glm::vec3(0.0f, 1.0f, 1.0f));
 		model = glm::translate(model, glm::vec3(0.0f, 0.0f, 0.0f));
 		model = glm::scale(model, glm::vec3(0.1f, 0.1f, 0.1f));
 		stageShader.setMat4("model", model);
@@ -218,6 +218,7 @@ int main()
 			characterShader.setMat4("finalBonesMatrices[" + std::to_string(i) + "]", transforms[i]);
 
 		glm::mat4 c_model = glm::mat4(1.0f);
+		c_model = glm::rotate(c_model, glm::radians(180.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		c_model = glm::translate(c_model, glm::vec3(0.0f, 0.0f, 0.0f)); // translate it down so it's at the center of the scene
 		c_model = glm::scale(c_model, glm::vec3(0.001f, 0.001f, 0.001f));	// it's a bit too big for our scene, so scale it down
 		characterShader.setMat4("model", c_model);
