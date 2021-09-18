@@ -61,6 +61,7 @@ set(CHAPTERS
 set(SkeletalAnimation
     klee
     jean
+    project
 )
 
 configure_file(configuration/root_directory.h.in configuration/root_directory.h)

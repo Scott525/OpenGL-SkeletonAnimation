@@ -1,0 +1,319 @@
+newmtl m0
+map_Kd Tex\Tex_0002.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m1
+map_Kd Tex\Tex_0003.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m2
+map_Kd Tex\Tex_0004.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m3
+map_Kd Tex\Tex_0005.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m4
+map_Kd Tex\Tex_0007.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m5
+map_Kd Tex\Tex_0008.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m6
+map_Kd Tex\Tex_0009.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m7
+map_Kd Tex\Tex_0010.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m8
+map_Kd Tex\Tex_0011.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m9
+map_Kd Tex\Tex_0012.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m10
+map_Kd Tex\Tex_0013.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m11
+map_Kd Tex\Tex_0014.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m12
+map_Kd Tex\Tex_0015.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m13
+map_Kd Tex\Tex_0006_3.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m14
+map_Kd Tex\Tex_0018.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m15
+map_Kd Tex\Tex_0019.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m16
+map_Kd Tex\Tex_0020.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m17
+map_Kd Tex\Tex_0021.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m18
+map_Kd Tex\Tex_0025.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m19
+map_Kd Tex\Tex_0024.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m20
+map_Kd Tex\Tex_0026.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m21
+map_Kd Tex\Tex_0027.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m22
+map_Kd Tex\Tex_0028.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m23
+map_Kd Tex\Tex_0029.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m24
+map_Kd Tex\Tex_0030.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m25
+map_Kd Tex\Tex_0031.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m26
+map_Kd Tex\Tex_0032.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m27
+map_Kd Tex\Tex_0033.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m28
+map_Kd Tex\Tex_0034.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m29
+map_Kd Tex\Tex_0035.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m30
+map_Kd Tex\Tex_0038_3.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m31
+map_Kd Tex\Tex_0040.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m32
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m33
+map_Kd Tex\Tex_0017.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m34
+map_Kd Tex\Tex_0001.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m35
+map_Kd Tex\Tex_0016.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m36
+map_Kd Tex\Tex_0023.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m37
+map_Kd Tex\Tex_0022.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m38
+map_Kd Tex\Tex_0037_3.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m39
+map_Kd Tex\Tex_0039.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
